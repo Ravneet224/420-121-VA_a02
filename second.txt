@@ -1,2 +1,4 @@
 Here is my second file
 It is also wonderfull!
+
+I've added to the end of the file
